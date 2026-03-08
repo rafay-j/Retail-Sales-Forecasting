@@ -26,7 +26,3 @@ Rossmann operates over 3,000 drugstores in 7 European countries. Store sales are
 - Scikit-learn
 - Matplotlib/Seaborn
 
-## How to Use
-1. Preprocess the data using the provided notebooks.
-2. Train the model using the `XGBRegressor` configuration.
-3. Use the trained model to predict sales by passing a DataFrame with the engineered features.

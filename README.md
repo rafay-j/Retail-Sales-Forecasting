@@ -18,7 +18,7 @@ Rossmann operates over 3,000 drugstores in 7 European countries. Store sales are
 - **R² Score**: ~0.9615
 - **RMSE**: ~595.06
 
-## ToolBox
+## Toolbox
 - Python 3.x
 - Pandas
 - NumPy
